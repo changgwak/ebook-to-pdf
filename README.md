@@ -28,3 +28,4 @@ For Windows users, a standalone executable version is available, eliminating the
 5. **Convert to PDF:** After capturing all pages, use the provided option to merge these images into a single PDF file.
    
 Originally from : https://github.com/regi93/EbookToPDF
+and fixed some bugs
