@@ -27,4 +27,4 @@ For Windows users, a standalone executable version is available, eliminating the
 4. **Start Conversion:** Initiate the screenshot capture process. The program will automatically progress through each page, capturing and compiling the images into a PDF.
 5. **Convert to PDF:** After capturing all pages, use the provided option to merge these images into a single PDF file.
    
-originally from : https://github.com/regi93/EbookToPDF
+Originally from : https://github.com/regi93/EbookToPDF
