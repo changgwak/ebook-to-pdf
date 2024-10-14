@@ -16,8 +16,7 @@ Ebook to PDF is an open-source Python program designed to automate the conversio
 For Windows users, a standalone executable version is available, eliminating the need for manual Python or dependency installations. This makes the tool accessible to a broader audience, including those who may not be familiar with Python environments.
 
 1. **Download the Executable:** The latest version of the Ebook to PDF executable can be found in the Releases section of this GitHub repository.
-2. **Extract the Zip File:** After downloading, extract the contents of the zip file to your desired location.
-3. **Launch the Application:** Open the extracted folder and run the `Ebook_to_PDF.exe` file to start the program.
+
 
 ### Usage Guide
 
