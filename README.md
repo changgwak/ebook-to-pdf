@@ -11,6 +11,35 @@ Ebook to PDF is an open-source Python program designed to automate the conversio
 
 ## Getting Started
 
+
+### Create virtual environment(Recommended)
+```bash
+python -m venv myvenv
+```
+```bash
+cd myvenv/
+source ./Scripts/activate
+```
+
+### Clone git repository
+```bash
+git clone https://github.com/changgwak/ebook-to-pdf
+```
+
+
+### Install python packages
+```bash
+cd ebook-to-pdf/
+pip install -r requirements.txt
+```
+
+### Run python source
+```bash
+python ./src/ebook_to_pdf.py
+```
+
+
+### Old ###
 ### Running the Executable
 
 For Windows users, a standalone executable version is available, eliminating the need for manual Python or dependency installations. This makes the tool accessible to a broader audience, including those who may not be familiar with Python environments.
