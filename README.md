@@ -38,6 +38,14 @@ pip install -r requirements.txt
 python ./src/ebook_to_pdf.py
 ```
 
+### Usage Guide
+
+1. **Set Page Count:** Indicate how many pages you wish to convert. This sets the scope of the conversion process.
+2. **Capture Page Coordinates:** Use the GUI to define the top-left and bottom-right coordinates of the ebook pages. These coordinates determine the area of the screen to capture.
+3. **Set Next Page Button:** Specify the location of the "next page" button or area to automate page turning during capture.
+4. **Start Conversion:** Initiate the screenshot capture process. The program will automatically progress through each page, capturing and compiling the images into a PDF.
+5. **Convert to PDF:** After capturing all pages, use the provided option to merge these images into a single PDF file.
+
 
 ## Old
 ### Running the Executable
@@ -47,13 +55,5 @@ For Windows users, a standalone executable version is available, eliminating the
 1. **Download the Executable:** The latest version of the Ebook to PDF executable can be found in the Releases section of this GitHub repository.
 
 
-### Usage Guide
-
-1. **Set Page Count:** Indicate how many pages you wish to convert. This sets the scope of the conversion process.
-2. **Capture Page Coordinates:** Use the GUI to define the top-left and bottom-right coordinates of the ebook pages. These coordinates determine the area of the screen to capture.
-3. **Set Next Page Button:** Specify the location of the "next page" button or area to automate page turning during capture.
-4. **Start Conversion:** Initiate the screenshot capture process. The program will automatically progress through each page, capturing and compiling the images into a PDF.
-5. **Convert to PDF:** After capturing all pages, use the provided option to merge these images into a single PDF file.
-   
 Originally from : https://github.com/regi93/EbookToPDF
 and fixed some bugs
