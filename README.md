@@ -39,7 +39,7 @@ python ./src/ebook_to_pdf.py
 ```
 
 
-### Old ###
+## Old
 ### Running the Executable
 
 For Windows users, a standalone executable version is available, eliminating the need for manual Python or dependency installations. This makes the tool accessible to a broader audience, including those who may not be familiar with Python environments.
